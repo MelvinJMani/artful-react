@@ -1,0 +1,38 @@
+[
+  {
+    "slug" : "10-print",
+    "name" : "10 PRINT",
+    "sub": "My attempt to create a version of the classic one-line Commodore 64 BASIC program in JavaScript using p5.js. This coding challenge is inspired by the book 10 PRINT. Background color, stroke color and stroke weight values are selected based on random logic.",
+    "component": "ten_print"
+  },
+  {
+    "slug" : "star-rain",
+    "name" : "Star Rain",
+    "sub"  : "I don't know anything with certainty, but seeing the stars makes me dream. - Vincent Van Gogh.",
+    "component" : "star_rain"
+  },
+  {
+    "slug" : "phi-art",
+    "name" : "Phi Art - Art based Golden Ratio",
+    "sub"  : "To the Egyptians these numbers (Comma of Pythagoras, Pi and Phi) were also the secret harmonies of the cosmos and they incorporated them as rhythms and proportions in the construction of their pyramids and temples.Today scientists recognize the Comma of Pythagoras, Pi and the Golden Proportion as well as the closely related Fibonacci sequence are universal constants that describe complex patterns in astronomy, music and physics. This is my humble attempt to generate an art based on the first 2000 digits of the number 'Phi' - the World's Most Astonishing Number.",
+    "component" : "phi_art"
+  },
+  {
+    "slug" : "oscillating-lines",
+    "name" : "Oscillating Lines",
+    "sub"  : "This sketch uses an array to hold line height values, and then changes those values to show oscillating lines.",
+    "component" : "oscillating_lines"
+  },
+  {
+    "slug" : "fading-grid",
+    "name" : "Fading Grid",
+    "sub"  : "This sketch uses a 2D array to hold values, and decreases changes those values to show a fading grid of cells.",
+    "component" : "fading_grid"
+  },
+  {
+    "slug" : "mouse-ripple",
+    "name" : "Mouse Ripple",
+    "sub"  : "This sketch shows a ripple effect when you click the mouse.",
+    "component" : "mouse_ripple"
+  }
+]

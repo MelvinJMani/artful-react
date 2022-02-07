@@ -1,0 +1,17 @@
+body {
+  background-image: url("assets/bg.svg");
+}
+
+footer {
+  margin-top:  20px;
+}
+
+.list-item {
+  background-color: transparent !important;
+}
+
+.main-list {
+  height: 500px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
