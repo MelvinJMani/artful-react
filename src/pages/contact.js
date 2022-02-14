@@ -3,12 +3,14 @@ import Meta from 'components/meta'
 
 const Contact = () => {
   const pageTitle = 'Contact'
-  const pageDescription = 'Welcome to artful React Project.'
 
   return (
     <div>
       <Meta title={pageTitle}/>
-      <Header head={pageTitle} description={pageDescription} />
+      <Header head={pageTitle} description="" />
+      <p className='lead'>
+        📫 You can reach me on my email id <a href="mailto:melvinjmani@gmail.com"> melvinjmani@gmail.com </a>
+      </p>
     </div>
   )
 }
