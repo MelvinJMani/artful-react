@@ -34,5 +34,17 @@
     "name" : "Mouse Ripple",
     "sub"  : "This sketch shows a ripple effect when you click the mouse.",
     "component" : "mouse_ripple"
+  },
+  {
+    "slug" : "moving-shadow",
+    "name" : "Moving Shadow",
+    "sub"  : "This sketch shows a moving shadow effect",
+    "component" : "moving_shadow"
+  },
+  {
+    "slug" : "recursive-trees",
+    "name" : "Recursice Trees",
+    "sub"  : "This is my attempt to make beautiful recursive trees",
+    "component" : "recursive_trees"
   }
 ]
