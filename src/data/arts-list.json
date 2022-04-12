@@ -43,7 +43,7 @@
   },
   {
     "slug" : "recursive-trees",
-    "name" : "Recursice Trees",
+    "name" : "Recursive Trees",
     "sub"  : "This is my attempt to make beautiful recursive trees",
     "component" : "recursive_trees"
   },
