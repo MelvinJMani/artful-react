@@ -46,5 +46,11 @@
     "name" : "Recursice Trees",
     "sub"  : "This is my attempt to make beautiful recursive trees",
     "component" : "recursive_trees"
+  },
+  {
+    "slug" : "prime-spiral",
+    "name" : "Prime Spiral",
+    "sub"  : "Also known as Ulam spiral, prime spiral is a graphical depiction of prime numbers. This was deviced by Stanisław Ulam, and was popularized by Martin Gardner",
+    "component" : "prime_spiral"
   }
 ]
