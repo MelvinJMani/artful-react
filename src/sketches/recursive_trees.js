@@ -48,7 +48,6 @@ const RecursiveTree = () => {
         p5.vertex(x, y);
       }
       p5.endShape(p5.CLOSE);
-      //p5.ellipse(0, 0, 10);
     }
     p5.pop();
   }
